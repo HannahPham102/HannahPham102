@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I am new to the field. This is my first attempt to use GitHub. 
+I am currently working to become a software developer with TechElevator. 
 <!--
 **HannahPham102/HannahPham102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
